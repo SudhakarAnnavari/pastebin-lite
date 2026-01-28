@@ -8,3 +8,6 @@ export async function nowMs(): Promise<number> {
   }
   return Date.now();
 }
+
+
+//time.js
